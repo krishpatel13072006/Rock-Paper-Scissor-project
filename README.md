@@ -60,13 +60,3 @@ https://github.com/user-attachments/assets/28e05def-7750-4b4e-9b1c-4da28af1e4cb
 * Using animations and transitions to enhance user experience
 * Building responsive, interactive UIs with CSS
 
----
-
-## 🕹️ Try It Out
-
-You can run this game locally by cloning the repository and opening `index.html` in your browser. Or, deploy it using GitHub Pages or Netlify to share with others!
-
----
-
-Let me know if you want me to generate the Markdown version or help with GitHub Pages deployment!
-
