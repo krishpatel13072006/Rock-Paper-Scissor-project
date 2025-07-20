@@ -24,7 +24,10 @@ This project recreates the classic hand game in a visually engaging and beginner
 
 
 
-Uploading Rock Paper Scissor - Google Chrome 2025-07-20 14-17-15.mp4…
+
+https://github.com/user-attachments/assets/28e05def-7750-4b4e-9b1c-4da28af1e4cb
+
+
 
 
 ---
